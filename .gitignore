@@ -360,4 +360,14 @@ MigrationBackup/
 .ionide/
 
 # Fody - auto-generated XML schema
-FodyWeavers.xsd
+FodyWeavers.xsdgit remote add origin https://github.com/THE-LEVITE/Cumbre_Ganadera.git
+
+
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+
